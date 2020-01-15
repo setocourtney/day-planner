@@ -22,6 +22,6 @@ This application uses the [Moment.js](https://momentjs.com/) library to work wit
 
 ##Contents
 
-    *###script.js### - javascript using jquery to dynamically update contents
-    *###index.html### - markup for page contents
-    *###style.css### - stylesheet supplement to bootstrap package
+    *script.js - javascript using jquery to dynamically update contents
+    *index.html - markup for page contents
+    *style.css - stylesheet supplement to bootstrap package
