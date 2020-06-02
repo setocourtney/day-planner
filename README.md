@@ -1,10 +1,18 @@
 # day-planner
 
-https://setocourtney.github.io/day-planner/
+Deployed: https://setocourtney.github.io/day-planner/
 
-This is a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-##Function
+
+## User Story
+
+> AS AN busy individual <br />
+> I WANT to be able to plan my daily schedule <br />
+> SO THAT I can optimize my time and get all of my tasks done.
+
+
+## Functionality
 
 The app displays standard business hours (9 a.m. to 5 p.m.). Each time slot represents one hour and contains the following:
 
@@ -20,8 +28,29 @@ Each hour is color coded to reflect whether the time slot is in the past, the pr
 
 This application uses the [Moment.js](https://momentjs.com/) library to work with date and time.
 
-##Contents
+
+
+## Technologies
+
+### FrontEnd
+
+* [Moment.js](https://momentjs.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* HTML
+* JavaScript
+
+
+
+## Directory
 
     *script.js - javascript using jquery to dynamically update contents
     *index.html - markup for page contents
     *style.css - stylesheet supplement to bootstrap package
+
+    
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
+
+Copyright (c) 2020 Courtney J. Seto
+
