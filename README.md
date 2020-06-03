@@ -12,7 +12,7 @@ Simple calendar application that allows the user to save events for each hour of
 > SO THAT I can optimize my time and get all of my tasks done.
 
 
-## Functionality
+## Features
 
 The app displays standard business hours (9 a.m. to 5 p.m.). Each time slot represents one hour and contains the following:
 
